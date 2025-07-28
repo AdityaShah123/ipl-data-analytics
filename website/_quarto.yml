@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "IPL Data Wrangling Project"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Batting"
+        file: Batting_stats.ipynb
+      - text: "Bowling"
+        file: Bowling_stats.ipynb
+      - text: "General"
+        file: General_stats.ipynb
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    embed-resources: true
+    code-tools: true
+    jupyter:
+      widgets: true            
+
+execute:
+  enable: true
+  output: true
+  execute_notebook: true
+  echo: false
+
+jupyter:
+  widgets: true

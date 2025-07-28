@@ -1,0 +1,15 @@
+---
+title: "IPL Data Wrangling Project "
+format: html
+---
+
+## Overview
+
+![](IPL-Logo.jpg)
+
+This website presents data wrangling and exploratory analysis of IPL match data using Python.
+
+### Navigation:
+- [Batting Stats](Batting_stats.ipynb): Click here to view the batting analysis
+- [Bowling Stats](Bowling_stats.ipynb): Click here to view the bowling analysis
+- [General Stats](General_stats.ipynb): Click here to get general insights

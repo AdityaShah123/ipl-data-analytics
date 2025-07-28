@@ -1,0 +1,120 @@
+Team1,Team2,Date,Year,Time,Place,Toss,TossDecision,Result,winning_team,win_margin,win_type
+RCB,KKR,"Apr 18, Fri",2008,02:30 PM GMT / 08:00 PM LOCAL,"M.Chinnaswamy Stadium, Bengaluru",Unknown,Unknown,Kolkata Knight Riders won by 140 runs,KKR,140.0,runs
+PBKS,CSK,"Apr 19, Sat",2008,11:30 AM GMT / 05:00 PM LOCAL,"Punjab Cricket Association IS Bindra Stadium, Mohali",Unknown,Unknown,Chennai Super Kings won by 33 runs,CSK,33.0,runs
+DC,RR,"Apr 20, Sun",2008,03:00 PM GMT / 08:30 PM LOCAL,"Arun Jaitley Stadium, Delhi",Unknown,Unknown,Delhi Daredevils won by 9 wickets (with 29 balls remaining),DC,9.0,wickets
+KKR,DCG,"Apr 21, Mon",2008,10:30 AM GMT / 04:00 PM LOCAL,"Eden Gardens, Kolkata",Unknown,Unknown,Kolkata Knight Riders won by 5 wickets (with 6 balls remaining),KKR,5.0,wickets
+MI,RCB,"Apr 22, Tue",2008,02:30 PM GMT / 08:00 PM LOCAL,"Wankhede Stadium, Mumbai",Unknown,Unknown,Royal Challengers Bangalore won by 5 wickets (with 2 balls remaining),RCB,5.0,wickets
+RR,PBKS,"Apr 23, Wed",2008,02:30 PM GMT / 08:00 PM LOCAL,"Sawai Mansingh Stadium, Jaipur",Unknown,Unknown,Rajasthan Royals won by 6 wickets (with 11 balls remaining),RR,6.0,wickets
+DCG,DC,"Apr 24, Thu",2008,02:30 PM GMT / 08:00 PM LOCAL,"Rajiv Gandhi International Stadium, Hyderabad",Unknown,Unknown,Delhi Daredevils won by 9 wickets (with 42 balls remaining),DC,9.0,wickets
+CSK,MI,"Apr 25, Fri",2008,02:30 PM GMT / 08:00 PM LOCAL,"MA Chidambaram Stadium, Chennai",Unknown,Unknown,Chennai Super Kings won by 6 runs,CSK,6.0,runs
+DCG,RR,"Apr 26, Sat",2008,02:30 PM GMT / 08:00 PM LOCAL,"Rajiv Gandhi International Stadium, Hyderabad",Unknown,Unknown,Rajasthan Royals won by 3 wickets (with 1 ball remaining),RR,3.0,wickets
+PBKS,MI,"Apr 27, Sun",2008,02:30 PM GMT / 08:00 PM LOCAL,"Punjab Cricket Association IS Bindra Stadium, Mohali",Unknown,Unknown,Kings XI Punjab won by 66 runs,PBKS,66.0,runs
+CSK,KKR,"Apr 28, Mon",2008,10:30 AM GMT / 04:00 PM LOCAL,"MA Chidambaram Stadium, Chennai",Unknown,Unknown,Chennai Super Kings won by 9 wickets (with 18 balls remaining),CSK,9.0,wickets
+RCB,RR,"Apr 29, Tue",2008,02:30 PM GMT / 08:00 PM LOCAL,"M.Chinnaswamy Stadium, Bengaluru",Unknown,Unknown,Rajasthan Royals won by 7 wickets (with 17 balls remaining),RR,7.0,wickets
+PBKS,DC,"Apr 30, Wed",2008,10:30 AM GMT / 04:00 PM LOCAL,"Punjab Cricket Association IS Bindra Stadium, Mohali",Unknown,Unknown,Kings XI Punjab won by 4 wickets (with 3 balls remaining),PBKS,4.0,wickets
+MI,DCG,"May 01, Thu",2008,02:30 PM GMT / 08:00 PM LOCAL,"Dr DY Patil Sports Academy, Navi Mumbai",Unknown,Unknown,Deccan Chargers won by 10 wickets (with 48 balls remaining),DCG,10.0,wickets
+RCB,CSK,"May 02, Fri",2008,02:30 PM GMT / 08:00 PM LOCAL,"M.Chinnaswamy Stadium, Bengaluru",Unknown,Unknown,Chennai Super Kings won by 13 runs,CSK,13.0,runs
+KKR,MI,"May 03, Sat",2008,02:30 PM GMT / 08:00 PM LOCAL,"Eden Gardens, Kolkata",Unknown,Unknown,Mumbai Indians won by 7 wickets (with 8 balls remaining),MI,7.0,wickets
+DC,RCB,"May 04, Sun",2008,02:30 PM GMT / 08:00 PM LOCAL,"Arun Jaitley Stadium, Delhi",Unknown,Unknown,Delhi Daredevils won by 10 runs,DC,10.0,runs
+RR,KKR,"May 05, Mon",2008,10:30 AM GMT / 04:00 PM LOCAL,"Sawai Mansingh Stadium, Jaipur",Unknown,Unknown,Rajasthan Royals won by 45 runs,RR,45.0,runs
+DCG,PBKS,"May 06, Tue",2008,02:30 PM GMT / 08:00 PM LOCAL,"Rajiv Gandhi International Stadium, Hyderabad",Unknown,Unknown,Kings XI Punjab won by 7 wickets (with 7 balls remaining),PBKS,7.0,wickets
+CSK,DC,"May 07, Wed",2008,02:30 PM GMT / 08:00 PM LOCAL,"MA Chidambaram Stadium, Chennai",Unknown,Unknown,Delhi Daredevils won by 8 wickets (with 6 balls remaining),DC,8.0,wickets
+RCB,DCG,"May 08, Thu",2008,10:30 AM GMT / 04:00 PM LOCAL,"M.Chinnaswamy Stadium, Bengaluru",Unknown,Unknown,Royal Challengers Bangalore won by 3 runs,RCB,3.0,runs
+PBKS,KKR,"May 09, Fri",2008,02:30 PM GMT / 08:00 PM LOCAL,"Punjab Cricket Association IS Bindra Stadium, Mohali",Unknown,Unknown,Kings XI Punjab won by 9 runs,PBKS,9.0,runs
+MI,DC,"May 10, Sat",2008,10:30 AM GMT / 04:00 PM LOCAL,"Dr DY Patil Sports Academy, Navi Mumbai",Unknown,Unknown,Mumbai Indians won by 29 runs,MI,29.0,runs
+RR,CSK,"May 11, Sun",2008,02:30 PM GMT / 08:00 PM LOCAL,"Sawai Mansingh Stadium, Jaipur",Unknown,Unknown,Rajasthan Royals won by 8 wickets (with 34 balls remaining),RR,8.0,wickets
+RCB,PBKS,"May 12, Mon",2008,02:30 PM GMT / 08:00 PM LOCAL,"M.Chinnaswamy Stadium, Bengaluru",Unknown,Unknown,Kings XI Punjab won by 6 wickets (with 10 balls remaining),PBKS,6.0,wickets
+CSK,DCG,"May 13, Tue",2008,02:30 PM GMT / 08:00 PM LOCAL,"MA Chidambaram Stadium, Chennai",Unknown,Unknown,Deccan Chargers won by 7 wickets (with 12 balls remaining),DCG,7.0,wickets
+MI,RR,"May 14, Wed",2008,02:30 PM GMT / 08:00 PM LOCAL,"Dr DY Patil Sports Academy, Navi Mumbai",Unknown,Unknown,Mumbai Indians won by 7 wickets (with 29 balls remaining),MI,7.0,wickets
+DC,CSK,"May 15, Thu",2008,10:30 AM GMT / 04:00 PM LOCAL,"Arun Jaitley Stadium, Delhi",Unknown,Unknown,Chennai Super Kings won by 4 wickets (with 0 balls remaining),CSK,4.0,wickets
+KKR,RCB,"May 16, Fri",2008,02:30 PM GMT / 08:00 PM LOCAL,"Eden Gardens, Kolkata",Unknown,Unknown,Kolkata Knight Riders won by 5 runs,KKR,5.0,runs
+RR,DCG,"May 17, Sat",2008,02:30 PM GMT / 08:00 PM LOCAL,"Sawai Mansingh Stadium, Jaipur",Unknown,Unknown,Rajasthan Royals won by 8 wickets (with 24 balls remaining),RR,8.0,wickets
+CSK,PBKS,"May 18, Sun",2008,02:30 PM GMT / 08:00 PM LOCAL,"MA Chidambaram Stadium, Chennai",Unknown,Unknown,Chennai Super Kings won by 18 runs,CSK,18.0,runs
+DCG,KKR,"May 19, Mon",2008,10:30 AM GMT / 04:00 PM LOCAL,"Rajiv Gandhi International Stadium, Hyderabad",Unknown,Unknown,Kolkata Knight Riders won by 23 runs,KKR,23.0,runs
+RR,DC,"May 20, Tue",2008,02:30 PM GMT / 08:00 PM LOCAL,"Sawai Mansingh Stadium, Jaipur",Unknown,Unknown,Rajasthan Royals won by 3 wickets (with 5 balls remaining),RR,3.0,wickets
+PBKS,RCB,"May 21, Wed",2008,02:30 PM GMT / 08:00 PM LOCAL,"Punjab Cricket Association IS Bindra Stadium, Mohali",Unknown,Unknown,Kings XI Punjab won by 9 wickets (with 26 balls remaining),PBKS,9.0,wickets
+KKR,DC,"May 22, Thu",2008,02:30 PM GMT / 08:00 PM LOCAL,"Eden Gardens, Kolkata",Unknown,Unknown,Kolkata Knight Riders won by 23 runs,KKR,23.0,runs
+MI,CSK,"May 23, Fri",2008,02:30 PM GMT / 08:00 PM LOCAL,"Wankhede Stadium, Mumbai",Unknown,Unknown,Mumbai Indians won by 9 wickets (with 37 balls remaining),MI,9.0,wickets
+DC,DCG,"May 24, Sat",2008,02:30 PM GMT / 08:00 PM LOCAL,"Arun Jaitley Stadium, Delhi",Unknown,Unknown,Delhi Daredevils won by 12 runs,DC,12.0,runs
+MI,KKR,"May 25, Sun",2008,02:30 PM GMT / 08:00 PM LOCAL,"Wankhede Stadium, Mumbai",Unknown,Unknown,Mumbai Indians won by 8 wickets (with 87 balls remaining),MI,8.0,wickets
+RR,RCB,"May 26, Mon",2008,10:30 AM GMT / 04:00 PM LOCAL,"Sawai Mansingh Stadium, Jaipur",Unknown,Unknown,Rajasthan Royals won by 65 runs,RR,65.0,runs
+DC,PBKS,"May 27, Tue",2008,02:30 PM GMT / 08:00 PM LOCAL,"Arun Jaitley Stadium, Delhi",Unknown,Unknown,Kings XI Punjab won by 6 runs (D/L method),PBKS,6.0,runs
+KKR,CSK,"May 28, Wed",2008,10:30 AM GMT / 04:00 PM LOCAL,"Eden Gardens, Kolkata",Unknown,Unknown,Chennai Super Kings won by 3 runs (D/L method),CSK,3.0,runs
+DCG,MI,"May 30, Fri",2008,02:30 PM GMT / 08:00 PM LOCAL,"Rajiv Gandhi International Stadium, Hyderabad",Unknown,Unknown,Mumbai Indians won by 25 runs,MI,25.0,runs
+RCB,DC,"May 31, Sat",2008,02:30 PM GMT / 08:00 PM LOCAL,"M.Chinnaswamy Stadium, Bengaluru",Unknown,Unknown,Delhi Daredevils won by 5 wickets (with 10 balls remaining),DC,5.0,wickets
+KKR,RR,"Jun 01, Sun",2008,02:30 PM GMT / 08:00 PM LOCAL,"Eden Gardens, Kolkata",Unknown,Unknown,Rajasthan Royals won by 6 wickets (with 21 balls remaining),RR,6.0,wickets
+MI,PBKS,"Mar 12, Fri",2010,10:30 AM GMT / 04:00 PM LOCAL,"Wankhede Stadium, Mumbai",Unknown,Unknown,Kings XI Punjab won by 1 run,None,,
+CSK,RCB,"Mar 13, Sat",2010,02:30 PM GMT / 08:00 PM LOCAL,"MA Chidambaram Stadium, Chennai",Unknown,Unknown,Royal Challengers Bangalore won by 14 runs,RCB,14.0,runs
+DC,KKR,"Mar 14, Sun",2010,02:30 PM GMT / 08:00 PM LOCAL,"Arun Jaitley Stadium, Delhi",Unknown,Unknown,Match abandoned without a ball bowled,None,,
+PBKS,DCG,"Mar 15, Mon",2010,02:30 PM GMT / 08:00 PM LOCAL,"Punjab Cricket Association IS Bindra Stadium, Mohali",Unknown,Unknown,Kings XI Punjab won by 6 wickets (with 3 balls remaining),PBKS,6.0,wickets
+CSK,RR,"Mar 16, Tue",2010,10:30 AM GMT / 04:00 PM LOCAL,"MA Chidambaram Stadium, Chennai",Unknown,Unknown,Rajasthan Royals won by 10 runs,RR,10.0,runs
+DC,MI,"Mar 17, Wed",2010,02:30 PM GMT / 08:00 PM LOCAL,"Arun Jaitley Stadium, Delhi",Unknown,Unknown,Delhi Daredevils won by 5 wickets (with 1 ball remaining),DC,5.0,wickets
+DCG,RCB,"Mar 18, Thu",2010,10:30 AM GMT / 04:00 PM LOCAL,"Rajiv Gandhi International Stadium, Hyderabad",Unknown,Unknown,Royal Challengers Bangalore won by 5 wickets (with 6 balls remaining),RCB,5.0,wickets
+KKR,PBKS,"Mar 19, Fri",2010,02:30 PM GMT / 08:00 PM LOCAL,"Eden Gardens, Kolkata",Unknown,Unknown,Kolkata Knight Riders won by 3 wickets (with 2 balls remaining),KKR,3.0,wickets
+RR,MI,"Mar 20, Sat",2010,02:30 PM GMT / 08:00 PM LOCAL,"Sawai Mansingh Stadium, Jaipur",Unknown,Unknown,Rajasthan Royals won by 5 wickets (with 0 balls remaining),RR,5.0,wickets
+DCG,CSK,"Mar 21, Sun",2010,02:30 PM GMT / 08:00 PM LOCAL,"Rajiv Gandhi International Stadium, Hyderabad",Unknown,Unknown,Chennai Super Kings won by 7 wickets (with 4 balls remaining),CSK,7.0,wickets
+RCB,MI,"Mar 22, Mon",2010,10:30 AM GMT / 04:00 PM LOCAL,"M.Chinnaswamy Stadium, Bengaluru",Unknown,Unknown,Mumbai Indians won by 9 wickets (with 12 balls remaining),MI,9.0,wickets
+PBKS,RR,"Mar 23, Tue",2010,02:30 PM GMT / 08:00 PM LOCAL,"Punjab Cricket Association IS Bindra Stadium, Mohali",Unknown,Unknown,Kings XI Punjab won by 41 runs,PBKS,41.0,runs
+DC,RR,"Mar 24, Wed",2010,02:30 PM GMT / 08:00 PM LOCAL,"Wankhede Stadium, Mumbai",Unknown,Unknown,Rajasthan Royals won by 105 runs,RR,105.0,runs
+CSK,PBKS,"Mar 25, Thu",2010,02:30 PM GMT / 08:00 PM LOCAL,"Wankhede Stadium, Mumbai",Unknown,Unknown,Chennai Super Kings won by 9 wickets (with 31 balls remaining),CSK,9.0,wickets
+CSK,RR,"Mar 26, Fri",2010,02:45 PM GMT / 08:15 PM LOCAL,"Dr DY Patil Sports Academy, Navi Mumbai",Unknown,Unknown,Rajasthan Royals won by 3 wickets (with 0 balls remaining),RR,3.0,wickets
+DCG,KKR,"Mar 27, Sat",2010,02:30 PM GMT / 08:00 PM LOCAL,"Dr DY Patil Sports Academy, Navi Mumbai",Unknown,Unknown,Kolkata Knight Riders won by 11 runs,KKR,11.0,runs
+MI,RR,"Mar 28, Sun",2010,09:30 AM GMT / 03:00 PM LOCAL,"Brabourne Stadium, Mumbai",Unknown,Unknown,Mumbai Indians won by 4 runs,MI,4.0,runs
+PBKS,DC,"Mar 29, Mon",2010,02:30 PM GMT / 08:00 PM LOCAL,"Punjab Cricket Association IS Bindra Stadium, Mohali",Unknown,Unknown,Delhi Daredevils won by 5 wickets (with 1 ball remaining),DC,5.0,wickets
+KKR,RCB,"Mar 30, Tue",2010,10:30 AM GMT / 04:00 PM LOCAL,"Eden Gardens, Kolkata",Unknown,Unknown,Kolkata Knight Riders won by 7 wickets (with 4 balls remaining),KKR,7.0,wickets
+CSK,DCG,"Mar 31, Wed",2010,02:30 PM GMT / 08:00 PM LOCAL,"MA Chidambaram Stadium, Chennai",Unknown,Unknown,Deccan Chargers won by 31 runs,DCG,31.0,runs
+RR,DC,"Apr 01, Thu",2010,02:30 PM GMT / 08:00 PM LOCAL,"Narendra Modi Stadium, Ahmedabad",Unknown,Unknown,Delhi Daredevils won by 6 wickets (with 17 balls remaining),DC,6.0,wickets
+RCB,PBKS,"Apr 02, Fri",2010,10:30 AM GMT / 04:00 PM LOCAL,"M.Chinnaswamy Stadium, Bengaluru",Unknown,Unknown,Royal Challengers Bangalore won by 8 wickets (with 7 balls remaining),RCB,8.0,wickets
+KKR,CSK,"Apr 03, Sat",2010,02:30 PM GMT / 08:00 PM LOCAL,"Eden Gardens, Kolkata",Unknown,Unknown,Chennai Super Kings won by 55 runs,CSK,55.0,runs
+DC,MI,"Apr 04, Sun",2010,02:30 PM GMT / 08:00 PM LOCAL,"Arun Jaitley Stadium, Delhi",Unknown,Unknown,Mumbai Indians won by 98 runs,MI,98.0,runs
+RCB,RR,"Apr 05, Mon",2010,02:30 PM GMT / 08:00 PM LOCAL,"M.Chinnaswamy Stadium, Bengaluru",Unknown,Unknown,Royal Challengers Bangalore won by 10 wickets (with 56 balls remaining),RCB,10.0,wickets
+DC,CSK,"Apr 06, Tue",2010,10:30 AM GMT / 04:00 PM LOCAL,"Arun Jaitley Stadium, Delhi",Unknown,Unknown,Chennai Super Kings won by 5 wickets (with 5 balls remaining),CSK,5.0,wickets
+DCG,PBKS,"Apr 07, Wed",2010,02:30 PM GMT / 08:00 PM LOCAL,"Barabati Stadium, Cuttack",Unknown,Unknown,Deccan Chargers won by 6 runs,DCG,6.0,runs
+RR,KKR,"Apr 08, Thu",2010,10:30 AM GMT / 04:00 PM LOCAL,"Narendra Modi Stadium, Ahmedabad",Unknown,Unknown,Rajasthan Royals won by 34 runs,RR,34.0,runs
+MI,RCB,"Apr 09, Fri",2010,02:30 PM GMT / 08:00 PM LOCAL,"Brabourne Stadium, Mumbai",Unknown,Unknown,Royal Challengers Bangalore won by 7 wickets (with 5 balls remaining),RCB,7.0,wickets
+DCG,DC,"Apr 10, Sat",2010,10:30 AM GMT / 04:00 PM LOCAL,"Barabati Stadium, Cuttack",Unknown,Unknown,Deccan Chargers won by 10 runs,DCG,10.0,runs
+CSK,PBKS,"Apr 11, Sun",2010,02:30 PM GMT / 08:00 PM LOCAL,"MA Chidambaram Stadium, Chennai",Unknown,Unknown,Match tied (Kings XI Punjab won the one-over eliminator),None,,
+MI,KKR,"Apr 12, Mon",2010,02:30 PM GMT / 08:00 PM LOCAL,"Brabourne Stadium, Mumbai",Unknown,Unknown,Mumbai Indians won by 7 wickets (with 9 balls remaining),MI,7.0,wickets
+RCB,CSK,"Apr 13, Tue",2010,02:30 PM GMT / 08:00 PM LOCAL,"M.Chinnaswamy Stadium, Bengaluru",Unknown,Unknown,Royal Challengers Bangalore won by 36 runs,RCB,36.0,runs
+PBKS,RR,"Apr 14, Wed",2010,02:30 PM GMT / 08:00 PM LOCAL,"Punjab Cricket Association IS Bindra Stadium, Mohali",Unknown,Unknown,Rajasthan Royals won by 31 runs,RR,31.0,runs
+RCB,DC,"Apr 15, Thu",2010,10:30 AM GMT / 04:00 PM LOCAL,"M.Chinnaswamy Stadium, Bengaluru",Unknown,Unknown,Delhi Daredevils won by 17 runs,DC,17.0,runs
+MI,CSK,"Apr 16, Fri",2010,02:30 PM GMT / 08:00 PM LOCAL,"Brabourne Stadium, Mumbai",Unknown,Unknown,Mumbai Indians won by 5 wickets (with 6 balls remaining),MI,5.0,wickets
+RR,DCG,"Apr 17, Sat",2010,02:30 PM GMT / 08:00 PM LOCAL,"Narendra Modi Stadium, Ahmedabad",Unknown,Unknown,Rajasthan Royals won by 8 wickets (with 26 balls remaining),RR,8.0,wickets
+PBKS,KKR,"Apr 18, Sun",2010,02:30 PM GMT / 08:00 PM LOCAL,"Punjab Cricket Association IS Bindra Stadium, Mohali",Unknown,Unknown,Kolkata Knight Riders won by 39 runs,KKR,39.0,runs
+RR,CSK,"Apr 19, Mon",2010,10:30 AM GMT / 04:00 PM LOCAL,"Narendra Modi Stadium, Ahmedabad",Unknown,Unknown,Rajasthan Royals won by 17 runs,RR,17.0,runs
+DCG,MI,"Apr 21, Wed",2010,02:30 PM GMT / 08:00 PM LOCAL,"Dr DY Patil Sports Academy, Navi Mumbai",Unknown,Unknown,Mumbai Indians won by 41 runs,MI,41.0,runs
+DC,KKR,"Apr 22, Thu",2010,02:30 PM GMT / 08:00 PM LOCAL,"Arun Jaitley Stadium, Delhi",Unknown,Unknown,Delhi Daredevils won by 40 runs,DC,40.0,runs
+MI,PBKS,"Apr 24, Sat",2010,02:30 PM GMT / 08:00 PM LOCAL,"Brabourne Stadium, Mumbai",Unknown,Unknown,Mumbai Indians won by 4 wickets (with 3 balls remaining),MI,4.0,wickets
+CSK,RCB,"Apr 25, Sun",2010,10:30 AM GMT / 04:00 PM LOCAL,"MA Chidambaram Stadium, Chennai",Unknown,Unknown,Chennai Super Kings won by 5 wickets (with 7 balls remaining),CSK,5.0,wickets
+DC,RR,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"Arun Jaitley Stadium, Delhi",Unknown,Unknown,Delhi Daredevils won by 67 runs,DC,67.0,runs
+KKR,DCG,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"Eden Gardens, Kolkata",Unknown,Unknown,Kolkata Knight Riders won by 24 runs,KKR,24.0,runs
+PBKS,RCB,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"Punjab Cricket Association IS Bindra Stadium, Mohali",Unknown,Unknown,Royal Challengers Bangalore won by 6 wickets (with 5 balls remaining),RCB,6.0,wickets
+CSK,RR,Unknown,Unknown,10:30 AM GMT / 04:00 PM LOCAL,"MA Chidambaram Stadium, Chennai",Unknown,Unknown,Chennai Super Kings won by 23 runs,CSK,23.0,runs
+MI,DCG,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"Brabourne Stadium, Mumbai",Unknown,Unknown,Mumbai Indians won by 63 runs,MI,63.0,runs
+KKR,PBKS,Unknown,Unknown,10:30 AM GMT / 04:00 PM LOCAL,"Eden Gardens, Kolkata",Unknown,Unknown,Kings XI Punjab won by 8 wickets (with 10 balls remaining),PBKS,8.0,wickets
+DC,RCB,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"Arun Jaitley Stadium, Delhi",Unknown,Unknown,Delhi Daredevils won by 37 runs,DC,37.0,runs
+DCG,RR,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"Vidarbha Cricket Association Stadium, Nagpur",Unknown,Unknown,Rajasthan Royals won by 2 runs,RR,2.0,runs
+CSK,MI,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"MA Chidambaram Stadium, Chennai",Unknown,Unknown,Chennai Super Kings won by 24 runs,CSK,24.0,runs
+RR,PBKS,Unknown,Unknown,10:30 AM GMT / 04:00 PM LOCAL,"Sawai Mansingh Stadium, Jaipur",Unknown,Unknown,Rajasthan Royals won by 9 wickets (with 30 balls remaining),RR,9.0,wickets
+KKR,DC,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"Eden Gardens, Kolkata",Unknown,Unknown,Kolkata Knight Riders won by 14 runs,KKR,14.0,runs
+RCB,DCG,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"M.Chinnaswamy Stadium, Bengaluru",Unknown,Unknown,Deccan Chargers won by 7 wickets (with 4 balls remaining),DCG,7.0,wickets
+PBKS,MI,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"Punjab Cricket Association IS Bindra Stadium, Mohali",Unknown,Unknown,Kings XI Punjab won by 6 wickets (with 4 balls remaining),PBKS,6.0,wickets
+DCG,CSK,Unknown,Unknown,10:30 AM GMT / 04:00 PM LOCAL,"Vidarbha Cricket Association Stadium, Nagpur",Unknown,Unknown,Deccan Chargers won by 6 wickets (with 5 balls remaining),DCG,6.0,wickets
+RCB,KKR,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"M.Chinnaswamy Stadium, Bengaluru",Unknown,Unknown,Royal Challengers Bangalore won by 7 wickets (with 17 balls remaining),RCB,7.0,wickets
+DC,PBKS,Unknown,Unknown,10:30 AM GMT / 04:00 PM LOCAL,"Arun Jaitley Stadium, Delhi",Unknown,Unknown,Kings XI Punjab won by 7 wickets (with 8 balls remaining),PBKS,7.0,wickets
+RR,MI,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"Sawai Mansingh Stadium, Jaipur",Unknown,Unknown,Mumbai Indians won by 37 runs,MI,37.0,runs
+DCG,RCB,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"Vidarbha Cricket Association Stadium, Nagpur",Unknown,Unknown,Deccan Chargers won by 13 runs,DCG,13.0,runs
+MI,DC,Unknown,Unknown,10:30 AM GMT / 04:00 PM LOCAL,"Brabourne Stadium, Mumbai",Unknown,Unknown,Mumbai Indians won by 39 runs,MI,39.0,runs
+CSK,KKR,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"MA Chidambaram Stadium, Chennai",Unknown,Unknown,Chennai Super Kings won by 9 wickets (with 39 balls remaining),CSK,9.0,wickets
+RR,RCB,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"Sawai Mansingh Stadium, Jaipur",Unknown,Unknown,Royal Challengers Bangalore won by 5 wickets (with 26 balls remaining),RCB,5.0,wickets
+CSK,DC,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"MA Chidambaram Stadium, Chennai",Unknown,Unknown,Delhi Daredevils won by 6 wickets (with 8 balls remaining),DC,6.0,wickets
+PBKS,DCG,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Unknown,Unknown,Deccan Chargers won by 5 wickets (with 5 balls remaining),DCG,5.0,wickets
+RCB,MI,Unknown,Unknown,10:30 AM GMT / 04:00 PM LOCAL,"M.Chinnaswamy Stadium, Bengaluru",Unknown,Unknown,Mumbai Indians won by 57 runs,MI,57.0,runs
+KKR,RR,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"Eden Gardens, Kolkata",Unknown,Unknown,Kolkata Knight Riders won by 8 wickets (with 23 balls remaining),KKR,8.0,wickets
+PBKS,CSK,Unknown,Unknown,10:30 AM GMT / 04:00 PM LOCAL,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Unknown,Unknown,Chennai Super Kings won by 6 wickets (with 2 balls remaining),CSK,6.0,wickets
+DC,DCG,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"Arun Jaitley Stadium, Delhi",Unknown,Unknown,Deccan Chargers won by 11 runs,DCG,11.0,runs
+KKR,MI,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"Eden Gardens, Kolkata",Unknown,Unknown,Kolkata Knight Riders won by 9 wickets (with 15 balls remaining),KKR,9.0,wickets
+RCB,MI,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"Dr DY Patil Sports Academy, Navi Mumbai",Unknown,Unknown,Mumbai Indians won by 35 runs,MI,35.0,runs
+CSK,DCG,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"Dr DY Patil Sports Academy, Navi Mumbai",Unknown,Unknown,Chennai Super Kings won by 38 runs,CSK,38.0,runs
+RCB,DCG,Unknown,Unknown,02:30 PM GMT / 08:00 PM LOCAL,"Dr DY Patil Sports Academy, Navi Mumbai",Unknown,Unknown,Royal Challengers Bangalore won by 9 wickets (with 37 balls remaining),RCB,9.0,wickets
+CSK,MI,Unknown,Unknown,03:00 PM GMT / 08:30 PM LOCAL,"Dr DY Patil Sports Academy, Navi Mumbai",Unknown,Unknown,Chennai Super Kings won by 22 runs,CSK,22.0,runs
