@@ -1,5 +1,4 @@
-# MSDS-597 Project  
-**Group: 11**  
+# IPL Data Analytics and Winner Prediction    
 
 ---
 
